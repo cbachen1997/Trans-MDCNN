@@ -1,6 +1,6 @@
 # Trans-MDCNN
 
-Original Tensorflow implentation of [Trans-MDNN](https://www.sciencedirect.com/science/article/pii/S0303243422001209)
+Original Tensorflow implentation of [Trans-MDCNN](https://www.sciencedirect.com/science/article/pii/S0303243422001209)
 
 ## Get Started
 Install packages with:
