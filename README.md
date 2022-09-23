@@ -17,4 +17,4 @@ I have provided the modified version of the source code, please overwrite it in 
 ## Note
 >1. The final results in the paper are average of the results of 5 training from scratch and random initialization was used each time, so there is no specific number of random seed. In order to ensure that the reimplementation gets similar results as much as possible, we suggest to take the same training strategy.
 >2. Due to limited knowledge, the environment where the code was run has not been made into a docker image, so if you have any problems while trying to compile it, please feel free to contact with me.
->3. This is my early work during my master's degree and done in jupyter, so the code is not elegant and seems very long, it may take some time to read and understand the code.
+>3. This is my early work during my master's degree and done in jupyter, so the code is not elegant and seems very tedious, it may take some time to read and understand the code.
